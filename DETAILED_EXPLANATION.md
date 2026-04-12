@@ -978,5 +978,3 @@ Every recommendation must:
 
 ---
 
-*This guide was created for the Advanced E-Commerce Data Science Analysis project.*  
-*For questions or clarifications, refer to the code in [README.md](./README.md).*
