@@ -78,22 +78,7 @@ online-retail-business-insights/
 │   └── OnlineRetail.csv                # Source dataset file
 ├── ECommerce_Analysis_Notebook.ipynb   # 📓 Main Jupyter Notebook (run this)
 ├── DETAILED_EXPLANATION.md             # 📘 overview of the analysis steps and concepts
-├── README.md                           # 📋 This file
-│
-└── Generated Outputs (after running):
-    ├── cleaning_summary.png            # Data cleaning pipeline visualization
-    ├── country_analysis.png            # Revenue × Country × Customer
-    ├── revenue_heatmap.png             # Day × Hour revenue heatmap
-    ├── quantity_price_revenue.png      # Quantity × Price × Revenue scatter
-    ├── segment_analysis.png            # 6-panel customer segment dashboard
-    ├── pareto_curve.png                # Revenue concentration (Pareto) curve
-    ├── time_series.png                 # Monthly trends 4-panel dashboard
-    ├── day_hour_patterns.png           # Day-of-week & hourly patterns
-    ├── outlier_analysis.png            # Outlier detection & classification
-    ├── cohort_retention.png            # Monthly cohort retention heatmap
-    ├── cohort_revenue.png              # Cohort revenue over time
-    ├── cross_tab_country_segment.png   # Country × Segment stacked bars
-    └── product_performance.png         # Product revenue & customer reach
+└── README.md                           # 📋 This file
 ```
 
 ---
@@ -170,7 +155,7 @@ jupyter notebook ECommerce_Analysis_Notebook.ipynb
 
 ---
 
-## 💡 Business Insights Preview
+##  Business Insights Preview
 
 ### Insight 1: Extreme Revenue Concentration
 > **The top 5% of customers generate ~40%+ of total revenue.** These VIPs aren't just big one-time spenders — they demonstrate 3× higher purchase frequency and significantly longer customer lifespans. Losing just 10% of VIPs would result in a ~4% total revenue loss.
@@ -229,7 +214,7 @@ Contributions are welcome! If you'd like to extend this analysis, consider:
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
